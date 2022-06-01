@@ -1,4 +1,3 @@
-![alt text](https://github.com/badprle/nukepanda-website/blob/main/avatar.jpeg?raw=true)
 - 👋 Hi, I’m @badprle
 - 👀 I’m interested in ReactJS and beautiful frontend apps.
 - 🌱 I’m currently learning ReactJS advanced things
